@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int main() {
     char op; double a, b;
     cout << "Enter operator (+,-,*,/): ";
